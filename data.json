@@ -1,3 +1,52 @@
 {
-  "apps": []
+  "apps": [
+    {
+      "id": 1771865458883,
+      "name": "Horion Client",
+      "version": "1.21.100/101",
+      "url": "https://horion.download/",
+      "img": "https://tse2.mm.bing.net/th/id/OIP.MfWo1yuy_JHHWRPJeooT9AHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "tags": [
+        "#Hvh #Detectable"
+      ],
+      "desc": "The Horion Client is an unofficial modified client for Minecraft Bedrock Edition that provides additional features and customization options beyond the standard game experience. It is developed by third parties and is aimed at players who want extended control, interface adjustments, and enhanced gameplay modifications.\n\nThe client includes a variety of modules that can alter different aspects of gameplay, such as movement behavior, visual overlays, interface customization, and other experimental features. These modules can typically be enabled or disabled individually through a built-in in-game menu, allowing users to tailor the experience to their preferences. The Developers \nare currently working on it.\n(My Experience):The Horion client is simply easy to use. Some antivirus programs mark it as a virus, which is due to the fact that it injects into Minecraft. My experiences are very good; it is easy to operate. On Cube Craft: you shouldn’t use it. It is easily recognizable by Cube Craft. If you use it anyway, you can inject the file after joining, both on Cube Craft and Hive. On Cube Craft, you will get banned after at most half an hour even at very low settings. On Hive, it is similar. On Lifeboat, it works great; I was able to use it for 1.5 years without getting banned if the settings weren’t too extreme. Kill aura works on very high settings like hitbox. For fly or jetpack, I would be careful. The consequence is usually a kick if it is used for too long.",
+      "new": false
+    },
+    {
+      "id": 1771866013164,
+      "name": "Nature Client",
+      "version": "1.21.26.1",
+      "url": "https://natureclient.com/",
+      "img": "",
+      "tags": [
+        "#Ghost"
+      ],
+      "desc": "The Nature Ghost Client is an unofficial third-party modification designed for Minecraft, typically focused on providing subtle gameplay-altering features. As a “ghost client,” it is generally described as being designed to run discreetly, with modifications that aim to appear less obvious compared to more overt modified clients.\n\nSuch clients often emphasize minimal visual changes while offering background enhancements that affect combat mechanics, player input behavior, or other gameplay systems. They are usually configurable, allowing users to adjust settings to match their preferences.",
+      "new": true
+    },
+    {
+      "id": 1771866372988,
+      "name": "Torio Client",
+      "version": "1.21.26.1",
+      "url": "https://github.com/Uncle-Awrt/Torio-Client",
+      "img": "https://tse3.mm.bing.net/th/id/OIP.mIzmnorBaututYw-yTXc2QHaGS?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "tags": [
+        "#Ghost"
+      ],
+      "desc": "The Torio Client is an unofficial third-party modification for Minecraft, primarily focused on PvP-oriented features. It is designed to provide a small selection of combat-related modules rather than a large, multi-feature framework. Compared to more extensive clients, Torio keeps its functionality relatively minimal.\n\nThe client mainly includes modules such as Reach and Hitbox adjustments for PvP situations. These features aim to modify combat interactions, while an additional Speed module is also available. However, the Speed feature is generally detected quickly on many servers. Overall, Torio is considered fairly effective within its limited scope, though it does not offer a wide variety of modules beyond its core combat focus.\n\n(My experience): I was able to use Torio for about two months on The Hive before eventually getting kicked. The client performs quite well for PvP, especially with Reach and Hitbox, but it does not have many modules besides those. The Speed module gets detected very quickly. On CubeCraft, I now get banned almost immediately when I try to use it.",
+      "new": true
+    },
+    {
+      "id": 1771866902389,
+      "name": "Borion Client",
+      "version": "1.21.26.1",
+      "url": "https://borion-updated.github.io/index.html",
+      "img": "https://tse3.mm.bing.net/th/id/OIP.b7HR69E8zynejPOKbmEKDgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "tags": [
+        "#Detectable #NotHvH #dll"
+      ],
+      "desc": "The Borion Client is an unofficial third-party modification for Minecraft that focuses primarily on PvP-oriented features. Unlike larger clients that include a wide variety of modules, Borion keeps its feature set relatively compact and centered around combat-related functionality.\n\nThe client typically includes modules such as Hitbox adjustments and automated combat features, along with additional movement-related options. Its interface is generally designed to be simple and straightforward, allowing users to toggle modules and configure settings with ease. Compared to more extensive clients, Borion emphasizes a focused PvP experience rather than offering a broad range of gameplay modifications.\n(My Experience):The Borion client is very good for Lifeboat. You can max out KillAura and hitbox. You just have to be careful when flying, as I got kicked once in a while. But due to its limited range, it’s not really designed for HVH. You often get defeated when playing against hackers. Also, I think it’s missing a bedaura. I wouldn’t really recommend it on Cubecraft or Hive because you get detected very easily. If you still want to use it, inject it with the Fate Injector only when you’re already on the server.",
+      "new": true
+    }
+  ]
 }
