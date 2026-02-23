@@ -47,6 +47,42 @@
       ],
       "desc": "The Borion Client is an unofficial third-party modification for Minecraft that focuses primarily on PvP-oriented features. Unlike larger clients that include a wide variety of modules, Borion keeps its feature set relatively compact and centered around combat-related functionality.\n\nThe client typically includes modules such as Hitbox adjustments and automated combat features, along with additional movement-related options. Its interface is generally designed to be simple and straightforward, allowing users to toggle modules and configure settings with ease. Compared to more extensive clients, Borion emphasizes a focused PvP experience rather than offering a broad range of gameplay modifications.\n(My Experience):The Borion client is very good for Lifeboat. You can max out KillAura and hitbox. You just have to be careful when flying, as I got kicked once in a while. But due to its limited range, it’s not really designed for HVH. You often get defeated when playing against hackers. Also, I think it’s missing a bedaura. I wouldn’t really recommend it on Cubecraft or Hive because you get detected very easily. If you still want to use it, inject it with the Fate Injector only when you’re already on the server.",
       "new": true
+    },
+    {
+      "id": 1771870844691,
+      "name": "Prax Client",
+      "version": "1.21.02",
+      "url": "https://github.com/Prax-Client/Releases/releases",
+      "img": "https://img.youtube.com/vi/hNQmcKbQF1E/maxresdefault.jpg",
+      "tags": [
+        "#Ghost #dll"
+      ],
+      "desc": "Prax Client is a lightweight, performance-focused Minecraft client designed primarily for competitive PvP gameplay. It offers a range of customizable combat and movement enhancements while maintaining a clean and minimal interface. The client aims to provide smooth performance, low resource usage, and subtle feature implementation to avoid obvious visual changes during gameplay. Prax Client is typically marketed toward players who want an advantage in PvP while keeping modifications discreet.\nIs it a Ghost Client or a Normal Client?\n\nPrax Client is generally considered a ghost client.\n\nA ghost client is a modified Minecraft client that includes hidden gameplay advantages (such as aim assistance, reach modifications, or auto-clicking) while trying to remain undetected by anti-cheat systems and other players.\nIs it easy to detect?\n\nThat depends on:\n\nThe server’s anti-cheat system\n\nHow aggressively the client’s features are configured\n\nThe specific version of the client\n\nGhost clients are specifically designed to be harder to detect than blatant hacked clients, but they are not undetectable. Modern anti-cheat systems (e.g., custom server anti-cheats or well-known ones like Watchdog used by Hypixel Studios servers) can still detect abnormal behavior patterns.\n(My Experience): I haven't been able to test it myself yet, as it is for an older version. But I\nwill catch up on that.",
+      "new": false
+    },
+    {
+      "id": 1771871125302,
+      "name": "Vector Client",
+      "version": "1.20.32",
+      "url": "https://github.com/VectorClient/Releases/releases",
+      "img": "https://cdn3.icvhack.com/image/mcbe/Vector.jpg",
+      "tags": [
+        "#Ghost #dll"
+      ],
+      "desc": "Vector Client is a modified client for Minecraft Bedrock Edition that is typically used in competitive multiplayer environments. It is not an official or approved client and is generally categorized as a ghost or utility client rather than a normal client. Vector is commonly associated with features that alter gameplay mechanics, particularly in PvP, such as aim assistance, auto-clicking, reach modifications, velocity changes, and player highlighting.\n\nIt is usually marketed as being low-detection, but like all third-party cheat clients, it carries a real risk of bans. Detection depends on the server’s anti-cheat system and how the features are configured. Using such a client typically violates server rules and can lead to temporary or permanent account penalties.\n(My Experience):I haven't been able to test it myself yet, as it is for an older version. But I will catch up on that.",
+      "new": false
+    },
+    {
+      "id": 1771871588609,
+      "name": "Boost Client",
+      "version": "1.21.111",
+      "url": "https://discordapp.com/channels/1359252270306426981/1455926582563700809/1459256656842985603",
+      "img": "",
+      "tags": [
+        "#HvH #dll"
+      ],
+      "desc": "Boost V3 is known within the Minecraft PvP scene as a modified client that is mainly associated with HVH (Hack vs. Hack) gameplay. It is used on servers or private matches where players intentionally compete against others who are also using cheat clients. Because of this focus, Boost V3 is generally categorized as a blatant or HVH client, rather than a subtle ghost client.\n\nAn HVH client typically includes aggressive and highly visible modules such as strong aim assistance, extended reach, velocity or knockback manipulation, automated combat features, and movement exploits. These features are designed to overpower other modified clients rather than remain hidden. In contrast, a ghost client tries to stay discreet and simulate legitimate gameplay to avoid detection.\n\nBoost V3 is therefore not usually considered a ghost client. It is more commonly described as a client built for open cheating environments, where detection avoidance is less about subtle behavior and more about bypassing specific anti-cheat systems temporarily. However, like all unauthorized modified clients for Minecraft, it carries a significant risk of bans on most public servers.\n(My Experience): I haven't been able to test it myself yet, as it is for an older version. But I will catch up on that. Definitley.",
+      "new": false
     }
   ]
 }
