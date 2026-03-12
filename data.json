@@ -29,20 +29,6 @@
       "new": true
     },
     {
-      "id": 1771866372988,
-      "name": "Torio Client",
-      "version": "26.3",
-      "url": "https://github.com/Uncle-Awrt/Torio-Client",
-      "discord": "",
-      "tags": [
-        "#Ghost"
-      ],
-      "images": [],
-      "img": "",
-      "desc": "The Torio Client is an unofficial third-party modification for Minecraft, primarily focused on PvP-oriented features. It is designed to provide a small selection of combat-related modules rather than a large, multi-feature framework. Compared to more extensive clients, Torio keeps its functionality relatively minimal.\n\nThe client mainly includes modules such as Reach and Hitbox adjustments for PvP situations. These features aim to modify combat interactions, while an additional Speed module is also available. However, the Speed feature is generally detected quickly on many servers. Overall, Torio is considered fairly effective within its limited scope, though it does not offer a wide variety of modules beyond its core combat focus.\n\n(My experience): I was able to use Torio for about two months on The Hive before eventually getting kicked. The client performs quite well for PvP, especially with Reach and Hitbox, but it does not have many modules besides those. The Speed module gets detected very quickly. On CubeCraft, I now get banned almost immediately when I try to use it.",
-      "new": true
-    },
-    {
       "id": 1771866902389,
       "name": "Borion Client",
       "version": "26.3",
